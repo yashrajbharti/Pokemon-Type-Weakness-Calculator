@@ -35,6 +35,12 @@ Understanding type multipliers is crucial in Pokemon battles, as they affect the
 2. Select the second Pokemon type from the dropdown.
 3. Click the "Calculate Multipliers" button to see the type multipliers.
 
+## Usage with help of query strings
+
+1. The url `https://yashrajbharti.github.io/Pokemon-Weakness-Calculator` can detect query string and give the results.
+2. For example, writing `/?type1=normal&type2=none` after the url will show results for normal type multipliers.
+3. Similary we can specify `type1` and `type2` to get the results directly in the url.
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or new features to add, please follow these guidelines:
