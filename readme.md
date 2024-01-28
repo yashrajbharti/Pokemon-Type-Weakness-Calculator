@@ -1,5 +1,13 @@
 # Pokemon Type Weakness Calculator
 
+<p align="center">
+  <img alt="" src="https://github.com/yashrajbharti/Pokemon-Weakness-Calculator/actions/workflows/main.yml/badge.svg">
+  <img alt="" src="https://img.shields.io/github/license/yashrajbharti/Pokemon-Weakness-Calculator">
+  <img alt="" src="https://img.shields.io/github/issues/yashrajbharti/Pokemon-Weakness-Calculator?color=blue">
+  <img alt="" src="https://img.shields.io/github/forks/yashrajbharti/Pokemon-Weakness-Calculator?style=social">
+  <img alt="" src="https://img.shields.io/github/languages/top/yashrajbharti/Pokemon-Weakness-Calculator?color=pink">
+</p>
+
 This web application calculates the type multipliers for types of Pokemon. It takes two Pokemon types as input and provides a list of multipliers based on their strengths and weaknesses.
 
 ## Purpose
