@@ -47,7 +47,7 @@ Contributions are welcome! If you have suggestions, improvements, or new feature
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yashrajbharti/Pokemon-Weakness-Calculator/blob/main/LICENSE) file for details.
 
 ---
 
