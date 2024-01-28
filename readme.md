@@ -1,6 +1,8 @@
 # Pokemon Type Weakness Calculator
 
 <p align="center">
+  <img src="./favicon.png" height="260px">
+  <br>
   <img alt="" src="https://img.shields.io/github/license/yashrajbharti/Pokemon-Weakness-Calculator">
   <img alt="" src="https://img.shields.io/github/issues/yashrajbharti/Pokemon-Weakness-Calculator?color=blue">
   <img alt="" src="https://img.shields.io/github/forks/yashrajbharti/Pokemon-Weakness-Calculator?style=social">
