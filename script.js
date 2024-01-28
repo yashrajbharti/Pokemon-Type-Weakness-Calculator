@@ -66,6 +66,7 @@ const typeChart = {
     fighting: 0.5,
     grass: 0.5,
     poison: 0.5,
+    bug: 0.5,
     ground: 2,
     psychic: 2,
   },
@@ -119,7 +120,8 @@ function calculateMultipliers() {
 
   const multiplierList = document.getElementById("multiplierList");
 
-  multiplierList.innerHTML = "";
+  while (multiplierList.firstChild)
+    multiplierList.removeChild(multiplierList.firstChild);
 
   // Sort multipliers in decreasing order of effectiveness
   const sortedMultipliers = Object.entries(multipliers)
