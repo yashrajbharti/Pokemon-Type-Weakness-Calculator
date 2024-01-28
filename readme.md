@@ -40,6 +40,7 @@ Understanding type multipliers is crucial in Pokemon battles, as they affect the
 1. The url `https://yashrajbharti.github.io/Pokemon-Weakness-Calculator` can detect query string and give the results.
 2. For example, writing `/?type1=normal&type2=none` after the url will show results for normal type multipliers.
 3. Similary we can specify `type1` and `type2` to get the results directly in the url.
+4. Lastly if you do not add `type2` for a single-type Pokémon, it will automatically default to `none`
 
 ## Contributing
 
