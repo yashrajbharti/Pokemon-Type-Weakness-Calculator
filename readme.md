@@ -9,7 +9,7 @@
   <img alt="" src="https://img.shields.io/github/languages/top/yashrajbharti/Pokemon-Weakness-Calculator?color=f0db4f">
 </p>
 
-This web application calculates the type multipliers for types of Pokemon. It takes two Pokemon types as input and provides a list of multipliers based on their strengths and weaknesses.
+This web application calculates the type multipliers for types of Pokemon. It takes two Pokemon types as input and provides a list of multipliers based on their strengths and weaknesses. Know a Pokémon's **Weak Against Types** 
 
 ## Purpose
 
