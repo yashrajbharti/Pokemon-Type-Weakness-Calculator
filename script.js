@@ -23,6 +23,7 @@ const typeChart = {
   fire: {
     bug: 0.5,
     fire: 0.5,
+    fairy: 0.5,
     grass: 0.5,
     ice: 0.5,
     steel: 0.5,
