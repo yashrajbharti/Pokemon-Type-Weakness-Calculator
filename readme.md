@@ -25,7 +25,7 @@ Understanding type multipliers is crucial in Pokemon battles, as they affect the
 | Electric | Electric, Flying, Steel                                              | Ground                                |
 | Fairy    | Bug, Dark, Dragon, Fighting                                          | Poison, Steel                         |
 | Fighting | Bug, Dark, Rock                                                      | Fairy, Flying, Psychic                |
-| Fire     | Bug, Fire, Grass, Ice, Steel                                         | Ground, Rock, Water                   |
+| Fire     | Bug, Fire, Fairy, Grass, Ice, Steel                                  | Ground, Rock, Water                   |
 | Flying   | Bug, Fighting, Grass, Ground                                         | Electric, Ice, Rock                   |
 | Ghost    | Bug, Fighting, Normal, Poison                                        | Dark, Ghost                           |
 | Grass    | Electric, Grass, Ground, Water                                       | Bug, Fire, Flying, Ice, Poison        |
